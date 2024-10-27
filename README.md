@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **a couple of projects with the Arduino**
 
-- 🌱 I’m currently learning **about all the good Stoff in the IT**
+- 🌱 I’m currently learning **about all the good things in the IT**
 
-- 💬 Ask me about **C++, Python & Cloud-Engineering**
+- 💬 Ask me about **C++, Python, DevOps&Cloud-Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
