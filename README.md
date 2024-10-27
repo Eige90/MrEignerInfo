@@ -1,5 +1,3 @@
-# Mr.-
-
 <h1 align="center">Hello World! 👋 I'm Daniel</h1>
 <h3 align="center">A passionate Full-Stack developer from Germany</h3>
 
