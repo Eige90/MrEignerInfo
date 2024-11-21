@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eige90" alt="eige90" /></a> </p>
 
-- 🔭 I’m currently working on **a couple of projects with the Arduino**
+- 🔭 I’m currently working on **a couple of projects with the Arduino and my raspian** on my private repo and on gaia. Take a look   
 
 - 🌱 I’m currently learning **about all the good things in the IT**
 
